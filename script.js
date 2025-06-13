@@ -156,8 +156,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add name attributes to inputs for proper form handling
     inputs[0].setAttribute('name', 'name');
     inputs[1].setAttribute('name', 'phone');
-    inputs[2].setAttribute('name', 'email');
-    inputs[3].setAttribute('name', 'comment');
 });
 
 // Parallax effect for hero section
